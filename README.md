@@ -23,7 +23,7 @@ Final project for the course of Vision and Perception 2020/2021.
 
 ## 💯 Final score:
 
-Score: `Nan`
+Score: `33/30`
 
 ## 🙋 Info
 
