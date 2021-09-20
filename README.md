@@ -56,7 +56,7 @@ for any doubt or clarification contact me on:
 </p>
 
 <p align="center">
-    <img src="./images/result3.png" style="width: 500px;"></img>
+    <img src="./images/result2.png" style="width: 500px;"></img>
     <br>
     random sample output from RRU-Net with FSM
 </p>
