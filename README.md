@@ -12,7 +12,9 @@ Final project for the course of Vision and Perception 2020/2021.
 ## 📝 Assignment
 
 1.	Reimplement the network in the Paper [Link 🔗](https://ieeexplore.ieee.org/document/9025485) (Github page of the paper [Link 🔗](https://github.com/yelusaleng/RRU-Net))
+    -   [V&P]RRU_NET.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/VP-FinalProject/blob/main/[V&P]RRU_NET.ipynb)
 2.  Do some experiments to improve the network.
+    -   [V&P]RRU_NET&FSM.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/VP-FinalProject/blob/main/[V&P]RRU_NET&FSM.ipynb)
 
 ## 💾 Dataset
 
